@@ -1,5 +1,6 @@
-| I like | Write code on | Sometimes create games with |
+| I like | Coding on | Sometimes create games with |
 | -------- | -------- | -------- |
 | 🗄️ Backend  |🚀 Rust  | 🧑‍💻Unigine  |
-| 🤖 ML  | 🐍 Python  | ❤️‍🩹 Unity  |
-|💾 embeded        | 📱 Flutter |      👀 Ren'py    |
+| 🤖 ML  | 🐍 Python  | 💔Unity  |
+|💾 Embeded        | 📱 Flutter |      👀 Ren'py    |
+|🔨 CI/CD        | #️⃣C# |  ✍ Various options to create HTML games    |
